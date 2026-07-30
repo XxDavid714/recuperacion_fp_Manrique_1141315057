@@ -70,7 +70,7 @@ La sustentación me exige explicar las funciones y modificar el ciclo en vivo.
 Mi responsabilidad es estudiar el resultado y poder defender cada decisión que
 aparece en el proyecto.
 
-## 6. Pregunta personalizada: guardar los giros en un archivo `.txt`
+## 6. Pregunta personalizada: ingreso de letras en lugar de números
 
 Mi cédula termina en 57, que es un número impar.  
 Por esa razón, la pregunta indicada en el taller sería qué hacer si el usuario
