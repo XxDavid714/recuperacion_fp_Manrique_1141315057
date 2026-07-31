@@ -72,12 +72,12 @@ python codigo/parte1_analisis.py
 python codigo/parte2_terminal.py
 ```
 
-## Material pendiente de producción
+## Evidencias de ejecución y sustentación
 
-Las tres capturas deben mostrar ejecuciones reales del programa. Los dos videos
-deben ser grabados por el estudiante con cámara encendida y pantalla compartida,
-siguiendo las condiciones establecidas en el taller.
+El repositorio contiene las tres capturas de ejecución solicitadas y los dos
+videos de sustentación grabados por el estudiante con cámara encendida y
+pantalla compartida.
 
 ## Estado
 
-Código y documentos terminados. Capturas y videos pendientes de grabación.
+Proyecto terminado con código, documentos, capturas y videos de sustentación.
