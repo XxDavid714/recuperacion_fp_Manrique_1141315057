@@ -104,7 +104,9 @@ def mostrar_menu():
 
 
 # El menú se repite hasta que el usuario selecciona la opción de salida.
-while True:
+opcion = ""
+
+while opcion != "5":
     mostrar_menu()
     opcion = input("Seleccione una opción: ").strip()
 
@@ -122,6 +124,6 @@ while True:
         buscar_por_nombre(giros, cantidad_giros)
     elif opcion == "5":
         print("Gracias por utilizar el sistema.")
-        break
+        
     else:
         print("Opción inválida. Seleccione un número del 1 al 5.")
